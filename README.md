@@ -39,7 +39,7 @@ Aplikasi ini menggunakan API kalender. Dalam aplikasi ini user dapat mencatat ke
 
 # Cara install aplikasi
 
-1. Download melalui github ini dengan klik aplikasi 
+1. Download melalui github ini dengan klik aplikasi https://github.com/EllyaRosanti/FILE_UTS_PAM/blob/main/UTS_RB_PAM_119140082.apk 
 2. Jika sudah selesai download, klik aplikasi lalu klik install
 3. Jika ada peringatan dari sistem keamanan, klik tetap install
 4. Buka aplikasi yang telah di install
