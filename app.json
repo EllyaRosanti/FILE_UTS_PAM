@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "tugas_pam_4",
+    "slug": "tugas_pam_4",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/uim_calender.png",
+    "splash": {
+      "image": "./assets/Kalender.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "android": {
+      "package": "com.yourcompany.yourappname",
+      "versionCode": 1
+    }
+  }
+}
