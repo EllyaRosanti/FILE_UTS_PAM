@@ -10,7 +10,7 @@ Kalender Pengingat Kegiatan
 # Deskripsi Aplikasi
 Aplikasi ini menggunakan API kalender. Dalam aplikasi ini user dapat mencatat kegiatan pada hari tertentu dan dapat diatur alarm ketika kegiatan telah selesai.
 
-# Daftar Package
+# Daftar Package yang digunakan
 
 "@react-native-async-storage/async-storage": "~1.15.0",
 "@react-native-community/datetimepicker": "4.0.0",
